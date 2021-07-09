@@ -5,6 +5,15 @@
 - 📫 How to reach me ...
 
 - 📕 My notes: https://github.com/weirdo0314/notes
+
+- 📝 To do:
+- 1. 深入Spring boot
+- 2. Redis
+- 3. Linux
+- 4. 了解Thymeleaf
+- 5. Effective Java
+- 6. GO Lang
+- 7. RPC 微服务
 <!---
 weirdo0314/weirdo0314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
