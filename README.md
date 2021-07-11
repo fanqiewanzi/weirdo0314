@@ -14,6 +14,10 @@
 - 5. Effective Java
 - 6. GO Lang
 - 7. RPC 微服务
+- 8. 设计模式
+- 9. 计算机网络
+- 10.LeetCode算法
+- 11....
 <!---
 weirdo0314/weirdo0314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
